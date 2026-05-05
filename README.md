@@ -45,7 +45,7 @@ Hi! I'm **Dimas**, a developer focused on building **scalable & clean applicatio
 </p>
 
 <p align="center">
-  <a href="https://your-video-link.com">
+  <a href="https://youtu.be/iNyXOfebvFg?si=K7CCdl4MSXV0od6X">
     <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="500"/>
   </a>
 </p>
@@ -63,7 +63,7 @@ Hi! I'm **Dimas**, a developer focused on building **scalable & clean applicatio
 </p>
 
 <p align="center">
-  <a href="https://your-video-link.com">
+  <a href="[https://your-video-link.com](https://youtu.be/yx-BOXjqQGU?si=elCXF3H1NLUQug0V)">
     <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="500"/>
   </a>
 </p>
