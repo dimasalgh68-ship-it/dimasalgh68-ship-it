@@ -46,7 +46,7 @@ Hi! I'm **Dimas**, a developer focused on building **scalable & clean applicatio
 
 <p align="center">
   <a href="https://youtu.be/iNyXOfebvFg?si=K7CCdl4MSXV0od6X">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="500"/>
+    <img width="336" height="188" alt="image" src="https://github.com/user-attachments/assets/499eb1f5-0942-422a-8948-a887c5f51cf6" />
   </a>
 </p>
 
@@ -64,7 +64,8 @@ Hi! I'm **Dimas**, a developer focused on building **scalable & clean applicatio
 
 <p align="center">
   <a href="[https://your-video-link.com](https://youtu.be/yx-BOXjqQGU?si=elCXF3H1NLUQug0V)">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="500"/>
+   <img width="336" height="188" alt="image" src="https://github.com/user-attachments/assets/b4795e8d-57f3-4edc-927f-0eb1328de66b" />
+
   </a>
 </p>
 
