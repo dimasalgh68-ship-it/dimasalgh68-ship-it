@@ -2,119 +2,121 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=220&section=header&text=Dimas%20Al%20Ghofiqi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=550&lines=Mobile+Developer+%7C+Flutter;Backend+Developer+%7C+Laravel;Tech+Enthusiast+%26+Investor;Clean+Code+Advocate" alt="Typing SVG" /></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Mobile+Developer+%7C+Flutter;Backend+Developer+%7C+Laravel;Building+Scalable+Systems;Clean+Code+Enthusiast" />
 
----
-
-### 💡 About Me
-
-<table border="0" cellpadding="15">
-  <tr>
-    <td width="55%" valign="top">
-      <p>Hi there! I'm <b>Dimas</b>, a passionate developer who turns coffee into functional code. Since 2022, I've been focused on building <b>scalable application ecosystems</b> with modern architectures.</p>
-      <br>
-      <ul>
-        <li>🔭 <b>Current Goal:</b> Master seamless Laravel & Flutter integration</li>
-        <li>🌱 <b>Learning:</b> Clean Architecture & System Design</li>
-        <li>⚡ <b>Fun Fact:</b> "Code fast, refactor faster" — I believe in continuous improvement</li>
-      </ul>
-      <br>
-      <img src="https://img.shields.io/badge/Main_Stack-Laravel_%7C_Flutter-0A66C2?style=for-the-badge&logo=laravel&logoColor=white" />
-    </td>
-    <td width="45%" align="center">
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deandra485&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=94A3B8" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deandra485&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=94A3B8" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,js,ts,nodejs,express,mysql,postgres,firebase,supabase,redis,postman,git,github,gitlab,docker,kubernetes,nginx,linux,vscode,figma&perline=12" />
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 About Me
 
-<table width="100%">
-  <tr align="center">
-    <td width="50%">
-      <a href="https://github.com/deandra485/project1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deandra485&repo=nama-repo-andalanmu&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="95%"/>
-      </a>
-     </td>
-    <td width="50%">
-      <a href="https://github.com/deandra485/project2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deandra485&repo=nama-repo-kerenmu&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="95%"/>
-      </a>
-     </td>
-  </tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-> **Note:** Replace `nama-repo-andalanmu` and `nama-repo-kerenmu` with your actual repository names.
+Hi! I'm **Dimas**, a developer focused on building **scalable & clean applications**.
+
+- 🔥 Focus: Laravel + Flutter Ecosystem  
+- 🧠 Currently learning: System Design & Clean Architecture  
+- ⚡ Philosophy: *"Code fast, refactor faster"*  
+- 💡 Passion: Building real-world impactful apps  
 
 ---
 
-### 📊 GitHub Analytics
+## 🧠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,js,ts,nodejs,express,mysql,postgres,firebase,supabase,redis,docker,kubernetes,nginx,linux,git,github,vscode,figma&perline=10" />
+
+</div>
+
+---
+
+## 🎬 Project Showcase (WITH VIDEO 🔥)
+
+### 📱 Mobile App (Flutter)
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=dimasalgh68-ship-it&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=60A5FA" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimasalgh68-ship-it&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=60A5FA" width="100%" />
-  </picture>
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-6c67b0d6-cc8c-4db2-bbd6-4f8bdfbfc3c4.gif" width="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749707-8ec4a7bc-8f67-4dfb-9e45-69f93b3e6c3f.gif" width="250"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dimasalgh68-ship-it/dimasalgh68-ship-it/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dimasalgh68-ship-it/dimasalgh68-ship-it/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dimasalgh68-ship-it/dimasalgh68-ship-it/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+🎥 Demo Video 👇
+</p>
+
+<p align="center">
+  <a href="https://your-video-link.com">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="500"/>
+  </a>
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 🌐 Web App (Laravel)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749726-94ec3c34-12c1-4f4c-88e2-82d5a8d30a2f.gif" width="500"/>
+</p>
+
+<p align="center">
+🎥 Demo Video 👇
+</p>
+
+<p align="center">
+  <a href="https://your-video-link.com">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="500"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimasalgh68-ship-it&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasalgh68-ship-it&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimasalgh68-ship-it&theme=react-dark&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/dimasagf">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://t.me/dimas">
-    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="mailto:dimasalgh68@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/Dimas-Al-Ghofiqi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/dimasalgh68-ship-it">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
+---
+
 <div align="center">
-  <picture>
-    <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
-  </picture>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=deandra485&style=flat-square&color=3B82F6" alt="Profile Views" />
-  
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" width="100%" />
-</div>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=dimasalgh68-ship-it&style=flat-square&color=3B82F6"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer"/>
 
 </div>
